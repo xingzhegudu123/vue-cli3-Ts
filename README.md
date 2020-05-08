@@ -23,7 +23,8 @@ npm run test
 ### Lints and fixes files
 npm run lint
 ### 运行效果
-https://github.com/xingzhegudu123/vue-cli3-Ts/blob/feature-dev-1.0/public/imgReadme/accunt.png
+![image](https://github.com/xingzhegudu123/vue-cli3-Ts/blob/feature-dev-1.0/public/imgReadme/accunt.png)
+
 ```
 
 
