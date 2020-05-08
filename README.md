@@ -1,29 +1,10 @@
-# vuets-app
-
-## Project setup
-```
+项目设置
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
+编译和热重装以进行开发
 npm run serve
-```
-
-### Compiles and minifies for production
-```
+编译并最小化生产
 npm run build
-```
-
-### Run your tests
-```
+运行测试
 npm run test
-```
-
-### Lints and fixes files
-```
+整理和修复文件
 npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
