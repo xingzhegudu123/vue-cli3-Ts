@@ -23,7 +23,7 @@ npm run test
 ### Lints and fixes files
 npm run lint
 ### 运行效果
-"public/imgReadme/vue3+ts"
+"public/imgReadme/vue3+ts.png"
 ```
 
 
